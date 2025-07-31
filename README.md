@@ -14,13 +14,16 @@ Show Image
 yamlname: "Kirin"
 title: "IT Systems Engineer & Aspiring Plugin Developer"
 location: "Somewhere between AWS console and Eorzea"
+
 day_job: 
   - "Managing user accounts & security policies"
   - "Building Okta workflows that actually work!"
   - "Automating ALL the things"
+
 night_hobby:
   - "FFXIV party game plugins"
   - "Learning C# one error at a time"
+
 current_project: "Truth or Dare plugin for FFXIV"
 dream: "Custom plugin commissions someday!"
 personality: "Bubbly but also... maybe a tiny control freak 👀"
