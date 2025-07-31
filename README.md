@@ -11,16 +11,16 @@ Show Image
 </div>
 <br>
 <img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-👋 About Me:
+👋 About Me:<br>
 
-Name: Kirin  
-Role: IT Systems Engineer & Aspiring Plugin Developer  
-Location: Somewhere between AWS console and Eorzea  
-Day Job: Managing user accounts & security policies, building Okta workflows that actually work, automating ALL the things  
-Night Hobby: FFXIV party game plugins, learning C# one error at a time  
-Current Project: Truth or Dare plugin for FFXIV  
-Dream: Custom plugin commissions someday!  
-Personality: Bubbly but also... maybe a tiny control freak 👀  
+Name: Kirin<br>
+Role: IT Systems Engineer & Aspiring Plugin Developer<br>
+Location: Somewhere between AWS console and Eorzea<br>
+Day Job: Managing user accounts & security policies, building Okta workflows that actually work, automating ALL the things<br>
+Night Hobby: FFXIV party game plugins, learning C# one error at a time<br>
+Current Project: Truth or Dare plugin for FFXIV<br>
+Dream: Custom plugin commissions someday!<br>
+Personality: Bubbly but also... maybe a tiny control freak 👀<br>
 
 🛠️ My Professional Toolkit
 Enterprise IT Stack
