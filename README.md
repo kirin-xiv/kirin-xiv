@@ -97,10 +97,10 @@ csharppublic class KirinLife : Developer
 }
 🌈 Fun Facts About Me
 
-🎮 I build party games because FFXIV needs more silly fun
-🤖 I get genuinely excited when an Okta workflow runs perfectly
-💻 I may be a control freak, but my code is... a work in progress
-☕ I debug faster with coffee (correlation = causation, fight me)
+🎮 I build party games because FFXIV needs more silly fun<br>
+🤖 I get genuinely excited when an Okta workflow runs perfectly<br>
+💻 I may be a control freak, but my code is... a work in progress<br>
+☕ I debug faster with coffee (correlation = causation, fight me)<br>
 🎯 Dream job: Custom FFXIV plugin developer who also happens to know enterprise security
 
 
