@@ -1,4 +1,3 @@
-🌟 Kirin's Digital Playground
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20World!%20✨&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=ffffff&fontSize=32"/>
 </p>
@@ -11,19 +10,16 @@ Show Image
 </div>
 <br>
 <img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-yamlname: "Kirin"
+name: "Kirin"
 title: "IT Systems Engineer & Aspiring Plugin Developer"
 location: "Somewhere between AWS console and Eorzea"
-
 day_job: 
   - "Managing user accounts & security policies"
   - "Building Okta workflows that actually work!"
   - "Automating ALL the things"
-
 night_hobby:
   - "FFXIV party game plugins"
   - "Learning C# one error at a time"
-
 current_project: "Truth or Dare plugin for FFXIV"
 dream: "Custom plugin commissions someday!"
 personality: "Bubbly but also... maybe a tiny control freak 👀"
