@@ -76,7 +76,7 @@
 ## 🏆 Things I'm Actually Proud Of
 
 **That Okta + Python Automation Project:**
-Built an Okta workflow that tracked device enrollment status, then used Python to parse and aggregate the data by user. Result: Automated reports of missing security factors! (It was pretty cool, not gonna lie)
+Built an Okta workflow that tracked MFA device enrollment status, then used Python to parse and aggregate the data by user. Result: Automated reports of missing security factors! It gave me a nice clean list to bully people into signing up.
 
 ### **Featured Project: Truth or Dare Plugin**
 <div align="center">
