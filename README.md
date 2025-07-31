@@ -53,7 +53,6 @@ Development & Tools
 FFXIV Development
 <p align="left">
   <img src="https://img.shields.io/badge/Dalamud-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ImGui-00D4AA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Party%20Games-9D4EDD?style=for-the-badge"/>
 </p>
 🎯 What I'm Up To
@@ -64,15 +63,8 @@ FFXIV Development
 🌟 Goal: Turn my hobby into custom plugin commissions
 
 🏆 Things I'm Actually Proud Of
-python# That time I made Okta and Python play nice together
-def parse_device_enrollment_data():
-    """
-    Built an Okta workflow that tracked device enrollment status,
-    then used Python to parse and aggregate the data by user.
-    Result: Automated reports of missing security factors!
-    (It was pretty cool, not gonna lie)
-    """
-    return "Success! 🎉"
+That Okta + Python Automation Project:
+Built an Okta workflow that tracked device enrollment status, then used Python to parse and aggregate the data by user. Result: Automated reports of missing security factors! (It was pretty cool, not gonna lie)
 Featured Project: Truth or Dare Plugin
 <div align="center">
   <a href="https://github.com/kirin-xiv/FFToD-Release">
