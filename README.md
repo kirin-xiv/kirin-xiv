@@ -14,13 +14,13 @@ Show Image
 👋 About Me:
 
 Name: Kirin/n
-Role: IT Systems Engineer & Aspiring Plugin Developer/n
-Location: Somewhere between AWS console and Eorzea/n
-Day Job: Managing user accounts & security policies, building Okta workflows that actually work, automating ALL the things/n
-Night Hobby: FFXIV party game plugins, learning C# one error at a time/n
-Current Project: Truth or Dare plugin for FFXIV/n
-Dream: Custom plugin commissions someday!/n
-Personality: Bubbly but also... maybe a tiny control freak 👀/n
+Role: IT Systems Engineer & Aspiring Plugin Developer
+Location: Somewhere between AWS console and Eorzea
+Day Job: Managing user accounts & security policies, building Okta workflows that actually work, automating ALL the things
+Night Hobby: FFXIV party game plugins, learning C# one error at a time
+Current Project: Truth or Dare plugin for FFXIV
+Dream: Custom plugin commissions someday!
+Personality: Bubbly but also... maybe a tiny control freak 👀
 
 🛠️ My Professional Toolkit
 Enterprise IT Stack
