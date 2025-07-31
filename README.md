@@ -13,7 +13,7 @@ Show Image
 <img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 👋 About Me:
 
-Name: Kirin/n
+Name: Kirin
 Role: IT Systems Engineer & Aspiring Plugin Developer
 Location: Somewhere between AWS console and Eorzea
 Day Job: Managing user accounts & security policies, building Okta workflows that actually work, automating ALL the things
