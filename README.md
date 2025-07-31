@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello%20World!%20✨&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=ffffff&fontSize=32"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=IT+Systems+Engineer;FFXIV+Plugin+Enthusiast;Workflow+Automation+Lover!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=IT+Systems+Engineer;FFXIV+Plugin+Enthusiast" alt="Typing SVG" />
 </p>
 <div align="center">
 Show Image
