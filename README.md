@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=IT+Systems+Engineer;FFXIV+Plugin+Enthusiast" alt="Typing SVG" />
 </p>
 <div align="center">
-Show Image
-Show Image
 </div>
 <br>
 <img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
