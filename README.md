@@ -78,13 +78,16 @@
 **That Okta + Python Automation Project:**
 Built an Okta workflow that tracked MFA device enrollment status, then used Python to parse and aggregate the data by user. Result: Automated reports of missing security factors! It gave me a nice clean list to bully people into signing up.
 
-### **Featured Projects**
+  ### **Featured Projects**
+
   <div align="center">
     <a href="https://github.com/kirin-xiv/FFToD-Release">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirin-xiv&repo=FFToD-Release&theme=radical&border_
   radius=15&bg_color=0d1117&title_color=FF69B4&icon_color=9D4EDD&text_color=ffffff" />
     </a>
   </div>
+
+  <br>
 
   <div align="center">
     <a href="https://github.com/kirin-xiv/SpamrollGiveaway-Release">
@@ -93,7 +96,6 @@ Built an Okta workflow that tracked MFA device enrollment status, then used Pyth
     </a>
   </div>
 
-*My first FFXIV plugin! It's a party game for when you're tired of running the same dungeons. Yes, I spent way too much time perfecting the UI. No, I regret nothing.*
 
 ## 📊 GitHub Stats (The Good and The "Learning")
 
