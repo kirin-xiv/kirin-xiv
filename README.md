@@ -73,24 +73,14 @@
 - 📚 **Learning:** Advanced C# patterns and plugin architecture
 - 🌟 **Goal:** Turn my hobby into custom plugin commissions
 
-## 🏆 Things I'm Actually Proud Of
-
-**That Okta + Python Automation Project:**
-Built an Okta workflow that tracked MFA device enrollment status, then used Python to parse and aggregate the data by user. Result: Automated reports of missing security factors! It gave me a nice clean list to bully people into signing up.
-
 ### **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/kirin-xiv/FFToD-Release">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirin-xiv&repo=FFToD-Release&theme=radical&border_radius=15&bg_color=0d1117&title_color=FF69B4&icon_color=9D4EDD&text_color=ffffff" />
+  <a href="https://github.com/kirin-xiv/KirinPlugins">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirin-xiv&repo=KirinPlugins&theme=radical&border_radius=15&bg_color=0d1117&title_color=FF69B4&icon_color=9D4EDD&text_color=ffffff" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/kirin-xiv/SpamrollGiveaway-Release">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirin-xiv&repo=SpamrollGiveaway-Release&theme=radical&border_radius=15&bg_color=0d1117&title_color=FF69B4&icon_color=9D4EDD&text_color=ffffff" />
+  <a href="https://github.com/kirin-xiv/TeraSync-Release">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirin-xiv&repo=TeraSync-Release&theme=radical&border_radius=15&bg_color=0d1117&title_color=FF69B4&icon_color=9D4EDD&text_color=ffffff" />
   </a>
 </div>
 
