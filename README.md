@@ -88,8 +88,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirin-xiv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=FF69B4&icon_color=9D4EDD&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirin-xiv&layout=compact&langs_count=6&theme=radical&border_radius=15&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&count_private=true"/>
-</div>
+
 
 ## 💭 Current Mood
 
