@@ -1,7 +1,5 @@
 # Hey, I'm Kirin 👋
 
-Used to make FFXIV plugins. Not anymore.
-
 ## 🎮 Former FFXIV Projects (Now Open Source)
 
 ### Looking for new maintainers:
@@ -23,5 +21,3 @@ Current users receive updates through a private repository. If you fork this and
 Not FFXIV development, that's for sure.
 
 ---
-
-<sub>✌️ Thanks for the memories, Eorzea. The code is yours now.</sub>
